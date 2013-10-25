@@ -1,0 +1,21 @@
+{
+  "name": "scoreboard",
+  "version": "0.0.0",
+  "description": "Simple scoreboard website",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azdlowry/scoreboard.git"
+  },
+  "author": "Andy Lowry",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/azdlowry/scoreboard/issues"
+  }
+}
